@@ -1,7 +1,0 @@
-streamlit
-numpy
-pysoundfile
-librosa
-matplotlib
-joblib
-requests

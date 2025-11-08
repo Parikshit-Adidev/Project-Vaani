@@ -1,9 +1,7 @@
 streamlit
 numpy
-librosa
 pysoundfile
+librosa
 matplotlib
 joblib
-tensorflow
-vosk
 requests
